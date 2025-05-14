@@ -1,0 +1,29 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: "Courier New", Courier, monospace;
+    padding: 3rem;
+    line-height: 1.6;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  a {
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 1rem;
+  }
+  
+  nav {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
